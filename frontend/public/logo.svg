@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#4F46E5"/>
+  <!-- Left page of book -->
+  <path d="M11 16C11 14.8954 11.8954 14 13 14H22C23.1046 14 24 14.8954 24 16V34C24 34 20.5 32 13 32C11.8954 32 11 32.8954 11 34V16Z" fill="white" fill-opacity="0.95"/>
+  <!-- Right page of book -->
+  <path d="M37 16C37 14.8954 36.1046 14 35 14H26C24.8954 14 24 14.8954 24 16V34C24 34 27.5 32 35 32C36.1046 32 37 32.8954 37 34V16Z" fill="white" fill-opacity="0.8"/>
+  <!-- Digital tech node / spine glow -->
+  <circle cx="24" cy="22" r="3.5" fill="#38BDF8"/>
+  <path d="M24 17V19.5" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M24 24.5V28" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M15 20H19" stroke="#6366F1" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M15 24H19" stroke="#6366F1" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M29 20H33" stroke="#4F46E5" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M29 24H33" stroke="#4F46E5" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
